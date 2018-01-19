@@ -1,1 +1,6 @@
-This is not a copyrighter material
+This is not a copyrighted material
+Now i amke further changes using soft commit command 
+
+git reset --soft HEAD^
+
+
